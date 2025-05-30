@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shaista Shahid</h1>
 <h3 align="center">A passionate data analyst and aspiring data scientist</h3>
 
@@ -7,18 +6,38 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaista-shahid" alt="shaista-shahid" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects (Regression, Classification, Clustering)**
-
-- 🌱 I’m currently learning **Machine Learning,Python**
-
-- 👯 I’m looking to collaborate on **Real-world Data analysis & ML case studies**
-
+- 🌱 I’m currently learning **Machine Learning, Python**
+- 👯 I’m looking to collaborate on **Real-world data analysis and dashboard projects**
 - 🤝 I’m looking for help with **Machine Learning mini-projects for beginners**
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/Shaista-Shahid)
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/shaista-shahid-6118a9286)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shaista-Shahid](https://github.com/Shaista-Shahid)
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/shaista-shahid-6118a9286**
+## 📌 Experience
 
-- 📄 Know about my experiences [During my time at the Atomcamp Data Analytics Bootcamp, I built a strong foundation in data analysis and visualization using Excel, Power BI, and Python. I worked on hands-on projects including Atliq Grand Revenue Analysis and Health Data Analysis in Pakistan, where I cleaned, transformed, and visualized large datasets to uncover insights and present findings through interactive dashboards. These projects strengthened my ability to extract actionable business intelligence from raw data. Later, during my internship at Arch Technology, I worked on machine learning projects, where I applied algorithms to real-world datasets, performed feature engineering, and built predictive models. This experience allowed me to explore the practical side of ML, including model evaluation, deployment strategies, and working collaboratively in a tech-driven environment. Both experiences deepened my technical skills and prepared me for real-world data science challenges.](During my time at the Atomcamp Data Analytics Bootcamp, I built a strong foundation in data analysis and visualization using Excel, Power BI, and Python. I worked on hands-on projects including Atliq Grand Revenue Analysis and Health Data Analysis in Pakistan, where I cleaned, transformed, and visualized large datasets to uncover insights and present findings through interactive dashboards. These projects strengthened my ability to extract actionable business intelligence from raw data. Later, during my internship at Arch Technology, I worked on machine learning projects, where I applied algorithms to real-world datasets, performed feature engineering, and built predictive models. This experience allowed me to explore the practical side of ML, including model evaluation, deployment strategies, and working collaboratively in a tech-driven environment. Both experiences deepened my technical skills and prepared me for real-world data science challenges.)
+### 🎓 Atomcamp Data Analytics Bootcamp
+- Built a strong foundation in data analysis using **Excel**, **Power BI**, and **Python**
+- Completed hands-on projects:
+  - **Atliq Grand Revenue Analysis**
+  - **Health Data Analysis in Pakistan**
+- Performed data cleaning, transformation, and visualization on large datasets
+- Developed interactive dashboards to communicate insights
+- Learned to extract **actionable business intelligence** from raw data
+
+### 💼 Internship at Arch Technology
+- Worked on **machine learning projects** using real-world datasets
+- Applied algorithms for **regression, classification, and clustering**
+- Performed **feature engineering**, model training, and evaluation
+- Explored **model deployment strategies**
+- Collaborated with a **tech-driven team** on real-world problem-solving
+
+### 🔧 Key Outcomes
+- Strengthened technical skills in **data preprocessing**, **ML modeling**, and **visualization**
+- Gained practical experience with **end-to-end data science workflows**
+- Developed confidence to tackle **real-world business problems** using data
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,29 +54,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaista-shahid&show_icons=true&locale=en" alt="shaista-shahid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaista-shahid&" alt="shaista-shahid" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
-Explain
